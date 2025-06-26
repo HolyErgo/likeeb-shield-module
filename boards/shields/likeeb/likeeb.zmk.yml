@@ -1,0 +1,11 @@
+file_format: "1"
+id: likeeb
+name: Likeeb 
+type: shield
+url: https://github.com/HolyErgo/likeeb
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - likeeb_left
+  - likeeb_right
