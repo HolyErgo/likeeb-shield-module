@@ -6,6 +6,7 @@ url: https://github.com/HolyErgo/likeeb
 requires: [seeeduino_xiao_ble]
 features:
   - keys
+  - studio
 siblings:
   - likeeb_left
   - likeeb_right
